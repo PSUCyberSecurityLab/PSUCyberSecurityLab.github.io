@@ -1,5 +1,5 @@
-#  AI for Cybersecurity: A Handbook of Use Case (larger size)
-By [Peng Liu](https://s2.ist.psu.edu/pliu/), Tao Liu, [Nanqing Luo](https://sites.google.com/view/nanqingluo/home), Zitong Shang, Haizhou Wang, [Zhilong Wang](http://zhilongwang.org/), Lan Zhang, and Qingtian Zou From [Penn State Cybersecurity Lab](https://s2.ist.psu.edu/index.html).(smaller size)
+#  AI for Cybersecurity: A Handbook of Use Case
+By [Peng Liu](https://s2.ist.psu.edu/pliu/), Tao Liu, [Nanqing Luo](https://sites.google.com/view/nanqingluo/home), Zitong Shang, Haizhou Wang, [Zhilong Wang](http://zhilongwang.org/), Lan Zhang, and Qingtian Zou From [Penn State Cybersecurity Lab](https://s2.ist.psu.edu/index.html).
 
 ## How to cite
 
