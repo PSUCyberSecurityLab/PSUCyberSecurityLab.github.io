@@ -3,6 +3,14 @@ By [Peng Liu](https://s2.ist.psu.edu/pliu/), Tao Liu, [Nanqing Luo](https://site
 
 ## How to cite
 
+```
+@book{aisecurity,
+  title={AI for Cybersecurity: A Handbook of Use Cases},
+  author={Peng Liu, Tao Liu, Nanqing Luo, Zitong Shang, Haizhou Wang, Zhilong Wang, Lan Zhang, and Qingtian Zou},
+  year={2022},
+  publisher={Amazon Press}
+}
+```
 
 ## Abstract
 Deep learning and reinforcement learning have been increasingly applied in solving cybersecurity challenges. However, the existing survey papers have limited usefulness for engineers, security analysts, and students taking an "AI for Cybersecurity" course. **Therefore, we provide them with a handbook of use cases (e.g., using AI to conduct reverse engineering tasks, using AI to detect malware).** In this book, we advocate "applying DL in a systematic way", observe that "ML pipeline standardization" is a good thing in the cybersecurity industry, and believe that the industry could be benefited a lot from ML pipeline standardization when applying DL and RL to solve various cybersecurity challenges. Engineers, security analysts, and students can use this handbook to get a hands-on introduction to how to apply DL and RL to solve a particular cybersecurity problem. Using the code snippets and dataset links provided in the handbook, the readers can achieve "learning by doing" at the use case level.
