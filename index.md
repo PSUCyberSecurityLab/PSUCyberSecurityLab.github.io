@@ -7,8 +7,8 @@ By [Peng Liu](https://s2.ist.psu.edu/pliu/), Tao Liu, [Nanqing Luo](https://site
   title={AI for Cybersecurity: A Handbook of Use Cases},
   author={Peng Liu, Tao Liu, Nanqing Luo, Zitong Shang, Haizhou Wang, Zhilong Wang, Lan Zhang, and Qingtian Zou},
   year={2022},
-  url = {https://www.amazon.com/gp/product/B09T3123RB/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1},
-  note = {Kindle Book}
+  url = {https://www.amazon.com/gp/product/B09T3123RB/},
+  note = {Kindle edition}
 }
 ```
 
@@ -91,7 +91,7 @@ If you find an error, please report it using Github Issues. We appreciate any is
 
 
 ## Download
-PDF of manuscript is posted by [Penn State Cybersecurity Lab](https://s2.ist.psu.edu/index.html). Users could download a copy ([Download](book.pdf)) for personal use.
+PDF of manuscript is posted by [Penn State Cybersecurity Lab](https://s2.ist.psu.edu/index.html). Users could download a copy ([Download](book.pdf)) for personal use, educational purpose and etc.
 
 ## Code and Data
 All of the code related to the Book is stored in [AIforCybersecurity](https://github.com/PSUCyberSecurityLab/AIforCybersecurity).
