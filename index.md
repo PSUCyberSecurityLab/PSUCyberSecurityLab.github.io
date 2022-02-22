@@ -8,7 +8,8 @@ By [Peng Liu](https://s2.ist.psu.edu/pliu/), Tao Liu, [Nanqing Luo](https://site
   title={AI for Cybersecurity: A Handbook of Use Cases},
   author={Peng Liu, Tao Liu, Nanqing Luo, Zitong Shang, Haizhou Wang, Zhilong Wang, Lan Zhang, and Qingtian Zou},
   year={2022},
-  publisher={Amazon Press}
+  url = {https://www.amazon.com/gp/product/B09T3123RB/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1},
+  note = {Kindle Book}
 }
 ```
 
