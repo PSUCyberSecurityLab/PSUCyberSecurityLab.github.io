@@ -5,11 +5,12 @@ By [Peng Liu](https://s2.ist.psu.edu/pliu/), Tao Liu, [Nanqing Luo](https://site
 
 ```
 @book{aisecurity,
-  title={AI for Cybersecurity: A Handbook of Use Cases},
-  author={Peng Liu, Tao Liu, Nanqing Luo, Zitong Shang, Haizhou Wang, Zhilong Wang, Lan Zhang, and Qingtian Zou},
+    title={AI for Cybersecurity: A Handbook of Use Cases},
+  author={Liu, Peng and Liu, Tao and Luo, Nanqing and Shang, Zitong and Wang, Haizhou and Wang, Zhilong and Zhang, Lan and Zou, Qingtian},
   year={2022},
   url = {https://www.amazon.com/gp/product/B09T3123RB/},
-  note = {Kindle edition}
+  note = {Kindle edition},
+  publisher={Amazon}
 }
 ```
 
